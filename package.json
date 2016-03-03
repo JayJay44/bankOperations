@@ -1,0 +1,17 @@
+{
+  "name": "jerome",
+  "version": "1.0.0",
+  "main": "bankService.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "mongoose": "^4.4.6",
+    "properties-reader": "^0.0.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
